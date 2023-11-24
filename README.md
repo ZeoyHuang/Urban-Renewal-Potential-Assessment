@@ -5,7 +5,7 @@ This repository houses the research and implementation details for the study of 
 ## Authors
 - **CHAO Liu**: Assistant Professor, Department of Urban and Rural Planning, College of Architecture and Urban Planning, Tongji University & Planner at Tongji Urban Planning & Design Institute. Email: [liuchao1020@tongji.edu.cn](mailto:liuchao1020@tongji.edu.cn), Phone: +86 13818752417
 - **SHUHEI Chan**: Graduate Student, Department of Urban and Rural Planning, College of Architecture and Urban Planning, Tongji University. Email: [2133745@tongji.edu.cn](mailto:2133745@tongji.edu.cn), Phone: +86 19896588386
-- **ZHIYI Huang**: Department of Urban and Rural Planning, College of Architecture and Urban Planning, Tongji University. Email: [huang__zhiyi@163.com](mailto:huang__zhiyi@163.com), Phone: +86 13545101237
+- **ZHIYI Huang**: Department of Urban and Rural Planning, College of Architecture and Urban Planning, Tongji University. Email: [huang__zhiyi@163.com](mailto:zoeyhuang0518@gmail.com), Phone: +86 13545101237
 
 ## Funded by
 This research is supported by the Ministry of Education Industry-University-Research Cooperation Education Project with no approval number, for the construction of the case library of the smart city series course project - Smart Community. Additionally, supported by the Ministry of Housing and Urban-Rural Development research topic 2021-2022 with no approval number, for the study on data collection, integration, analysis, and renewal of central urban areas in megacities under multivariate big data.
